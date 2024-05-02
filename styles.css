@@ -63,6 +63,9 @@ body{
     border: 1px solid #389ED9;
     padding: 5px 17px;
 }
+.donasi .icon-label{
+    padding: 5px 12px;
+}
 /* program */
 .program{
     background-color: #E8F4FB;
@@ -264,10 +267,14 @@ footer .btn-hubungi{
         height: 8px;
         width: 8px;
     }
+    .donasi .icon-label{
+        padding: 0px 0px;
+    }
     /* kajian inspiratif */
     .kajian-inspiratif .icon-label{
         height: 6px;
         width: 6px;
+        
     }
     .kajian-inspiratif .inspiratif{
         background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('assets/kajian-inspiratif/frame.png');
